@@ -1,0 +1,6 @@
+{
+  "name": "CyberSec Simulator Lab",
+  "description": "Interactive hacking learning platform with simulated penetration testing scenarios and real-time code challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
